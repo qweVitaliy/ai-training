@@ -1,0 +1,4 @@
+model,imgsz,n_images,pre_ms,infer_ms,post_ms,total_ms,fps,avg_detections
+yolov8n,320,159,0.48,30.86,0.27,31.61,31.63,0.06
+yolov8n,640,159,1.38,78.39,0.42,80.19,12.47,0.06
+yolov8s,640,159,1.7,203.94,0.44,206.08,4.85,0.06
